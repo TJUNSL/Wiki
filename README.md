@@ -8,10 +8,6 @@
 
 - [各类资源信息](./resource/)
 
-- 共享Overleaf账号（绕过多人编辑限制）
-
-  > 如有需要，可联系wwz
-
 - 实验室服务器：[s.tjunsl.com](http://s.tjunsl.com/) 或 [lab2.dack.top](http://lab2.dack.top/)
 
   > 二者等价，仅限内网访问
@@ -21,8 +17,6 @@
 - GPT-4接口：http://chat.tjunsl.com/
 
   > 仅限内网，密码为tju
-  >
-  > 基于Qwen2.5于服务器部署。性能有限，上下文较短，使用时需注意。
 
 - 吃啥：[https://hall.willv.cn/](https://hall.willv.cn/)
 
@@ -43,6 +37,8 @@
   > 不定期更新（月更）
   > 
   > 实时会议信息可见 [https://ccf.tjunsl.com/](https://ccf.tjunsl.com/)
+  >
+  > 订阅日历：（过滤后）http://ccf.tjunsl.com/ccf_filter.ics （全部）http://ccf.tjunsl.com/ccf.ics
 
 - 学部集群：[cluster.tjunsl.com](https://cluster.tjunsl.com/)
 
